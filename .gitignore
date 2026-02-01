@@ -1,0 +1,24 @@
+# Ignore everything
+*
+
+# Keep Python file
+!iconmaker.py
+
+# Keep output directory and its contents
+!output/
+!output/**
+
+# Keep resources directory and its contents
+!resources/
+!resources/**
+
+# Keep project files
+!.gitignore
+!requirements.txt
+!README.md
+!LICENSE
+
+# Always ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
