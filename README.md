@@ -43,6 +43,8 @@ Icons are the standard way of making things on Windows and my guess is if you do
 
 ### Example
 
+Now that you've created yourself a nice square icon, which is still a PNG file, you run the Python script, which will put up a chooser box. You simply double click on the PNG, or it could be a JPEG that you want to convert into an icon. and then once you double click it will create the file for you. It will also give you a preview to make sure that you're happy and ask you if you want to turn the white space into transparency.
+
 ![File Picker Dialog](resources/ExamplePicker.png)
 
 ## 📤 Output
