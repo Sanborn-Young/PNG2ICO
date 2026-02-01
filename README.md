@@ -35,6 +35,12 @@ The tool will:
 4. Ask if you want to convert white pixels to transparent
 5. Generate the .ico file and save it to the `output/` directory
 
+## Making the icon file
+
+Icons are the standard way of making things on Windows and my guess is if you do have Windows, you probably have PowerPoint, and PowerPoint does allow fairly easy graphic manipulation, especially for something as simple as an icon for programs.  However, to make it really easy, you want to set yourself a square canvas. For me, I actually make a one inch by one inch grid and you can see how to make it below. If you do import a PNG file, you can set it to be transparent to allow you to create some unique effects.  Then PowerPoint allows you to export to a PNG file, which you can then utilize the PNG to ICO converter to pick your Powerpoint PNG icon file.
+
+![PowerPoint Menu](resources/powerpoint4icon.png)
+
 ### Example
 
 ![File Picker Dialog](resources/ExamplePicker.png)
